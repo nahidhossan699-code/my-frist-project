@@ -226,6 +226,14 @@ footer .footer-container{
     margin-bottom: 30px;
     line-height: 28px;
 }
-.footer-container .icons{
-    
+.footer-container .icons a{
+    margin-right: 24px;
+}
+.footer-container form input[type="text"],.footer-container form textarea{
+    width: 461px;
+    padding:18px 31px;
+    margin-bottom: 24px;
+    border: none;
+    border-radius: 5px;
+    color: #757575;
 }
